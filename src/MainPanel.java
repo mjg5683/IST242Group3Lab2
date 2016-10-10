@@ -14,9 +14,12 @@ public class MainPanel extends JPanel{
         add(mattsButton);
         
         JButton adamsButton = new JButton("Adam Clarkson");
-        add(mattsButton);
+        add(adamsButton);
         
          JButton myButton = new JButton("Aaron");
             add(myButton);
+            
+        JButton dinosButton = new JButton("Adrianne Kubiak");
+        add(dinosButton);
     }
 }
